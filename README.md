@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshakib771575-maker&label=Profile%20views&color=0e75b6&style=flat" alt="mdshakib771575-maker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?mdshakib771575-maker" alt="mdshakib771575-maker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?github.com/mdshakib771575-maker" alt="mdshakib771575-maker" /></a> </p>
 
 - 🔭 I’m currently working on React **DigiTools-platfrom**
 
