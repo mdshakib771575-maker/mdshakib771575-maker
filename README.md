@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on nextjs [biblio-drop]([https://biblio-drop-client-two.vercel.app])
+- 🔭 I’m currently working on nextjs [biblio-drop]([https://vercel.com/mdshakib771575-makers-projects](https://biblio-drop-client-two.vercel.app)
 
 - 🌱 I’m currently learning **Next.js**
 
