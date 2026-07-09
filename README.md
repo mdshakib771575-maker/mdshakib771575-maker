@@ -107,39 +107,6 @@ Responsive Tile Gallery UI.
 
 ---
 
-## 📑 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshakib771575-maker&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdshakib771575-maker&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdshakib771575-maker&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdshakib771575-maker&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdshakib771575-maker&theme=github_dark&utcOffset=6"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdshakib771575-maker&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
-
----
 
 # 💬 Random Dev Quote
 
