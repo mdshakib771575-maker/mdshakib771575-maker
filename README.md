@@ -30,7 +30,7 @@ MERN Stack Developer | React | Next.js | Node.js | Express.js | MongoDB
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:mdshakib771575@gmail.com">
+<a href="mdshakib771575@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
