@@ -1,34 +1,166 @@
 <h1 align="center">Hi 👋, I'm Monsur Ali Shakib</h1>
-<h3 align="center">Frontend Developer focused on React, Next.js & modern UI/UX</h3>
 
+<h3 align="center">
+MERN Stack Developer | React | Next.js | Node.js | Express.js | MongoDB
+</h3>
 
-
-- 🔭 I’m currently working on nextjs [biblio-drop]([https://vercel.com/mdshakib771575-makers-projects](https://biblio-drop-client-two.vercel.app)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Next.js projects**
-
-- 🤝 I’m looking for help with **Advanced React patterns & backend integration (Node.js / API)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mdshakib771575-maker](https://github.com/mdshakib771575-maker)
-
-- 📝 I regularly write articles on [Not writing yet, but planning soon](Not writing yet, but planning soon)
-
-- 💬 Ask me about **React, JavaScript, API**
-
-- 📫 How to reach me **mdshakib771575@gmail.com**
-
-- 📄 Know about my experiences [Currently building my experience in frontend development](Currently building my experience in frontend development)
-
-- ⚡ Fun fact **Short, clean, professional**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/monsur-ali-shakib-31699b3b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monsur-ali-shakib-31699b3b5/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshakib771575-maker&" alt="mdshakib771575-maker" /></p>
-![Uploading frontend_text_2.jpg…]()
+---
+
+# 🙋 About Me
+
+- 🔭 Currently building **Full Stack MERN Applications**
+- 🌱 Currently learning **Advanced Next.js, Authentication & Backend Architecture**
+- 👯 Looking to collaborate on **MERN Stack & Open Source Projects**
+- 🤝 Looking for help with **Scalable Backend Development**
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js, MongoDB**
+- 📫 Email: **mdshakib771575@gmail.com**
+- ⚡ Fun fact: **I love turning ideas into real-world web applications.**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/monsur-ali-shakib-31699b3b5/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:mdshakib771575@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/mdshakib771575-maker">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📚 Biblio Drop
+Book Management Platform built with Next.js & MongoDB.
+
+### 💼 HireLoop
+Job Portal using MERN Stack.
+
+### 🖼️ Tiles Gallery
+Responsive Tile Gallery UI.
+
+---
+
+# 💻 Technology Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,firebase" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,npm" />
+</p>
+
+---
+
+# 📊 GitHub Statistics & Analysis
+
+## 📈 GitHub Contributions
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshakib771575-maker&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdshakib771575-maker&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakib771575-maker&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Repository Stats & Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdshakib771575-maker&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📑 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshakib771575-maker&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdshakib771575-maker&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdshakib771575-maker&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdshakib771575-maker&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdshakib771575-maker&theme=github_dark&utcOffset=6"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mdshakib771575-maker&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mdshakib771575-maker&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
+</p>
