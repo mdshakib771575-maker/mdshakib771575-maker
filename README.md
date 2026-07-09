@@ -82,7 +82,7 @@ Responsive Tile Gallery UI.
 ## 📈 GitHub Contributions
 
 <p align="center">
-<img src="https://[github-readme-activity-graph.vercel.app/graph?username=mdshakib771575-maker](https://github.com/mdshakib771575-maker/mdshakib771575-maker)&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshakib771575-maker&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
