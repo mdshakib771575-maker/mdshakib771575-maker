@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/LmQ7XWy/Chat-GPT-Image-Jul-9-2026-06-32-52-AM.png" alt="GitHub Banner" width="100%" />
+  <img src="https://i.ibb.co.com/KxwVp6Vf/Chat-GPT-Image-Jul-9-2026-08-10-21-PM.png" alt="GitHub Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Monsur Ali Shakib</h1>
 
