@@ -3,9 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Monsur Ali Shakib</h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
 MERN Stack Developer | React | Next.js | Node.js | Express.js | MongoDB
-</h3>
+</h3> -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
