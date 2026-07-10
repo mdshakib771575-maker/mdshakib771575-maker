@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdshakib771575-maker/mdshakib771575-maker/main/banner.png" alt="Monsur Ali Shakib Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Monsur Ali Shakib</h1>
 
 <h3 align="center">
